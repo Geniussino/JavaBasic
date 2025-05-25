@@ -2,6 +2,7 @@ package git;
 
 public class GitTeorie {
 
+
     //GIT
     //git este un sistem distribuit de control al versiunilor
     //este folosit pentru a mari si gestiona toate modificarile facute in fisierele unui priect
