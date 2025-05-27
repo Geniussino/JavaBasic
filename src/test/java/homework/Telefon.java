@@ -9,6 +9,9 @@ public abstract class Telefon {
     private String culoare;
 
     public Telefon(String brand, String model, String culoare) {
+        this.brand = brand;
+        this.model = model;
+        this.culoare = culoare;
     }
 
     // Incapsulare: getter si setter pentru brand, model si culoare
